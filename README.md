@@ -1,6 +1,6 @@
 # test-github-repo
 
 
-This line was modified during conflict resolution
+Replaced in feature-2 branch
 
 New line added locally
